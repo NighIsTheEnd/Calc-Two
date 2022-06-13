@@ -1,0 +1,16 @@
+#script-link {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#main-screen-input,
+#first-part-of-operation {
+    height: 25px;
+}
+
+
+.right-side,
+.left-side {
+    width: 40%;
+}
